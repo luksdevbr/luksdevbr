@@ -1,4 +1,4 @@
-## Olá, eu sou Lucas Guilherme
+## Hi, I'm Lucas Guilherme
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luksdevbr&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
